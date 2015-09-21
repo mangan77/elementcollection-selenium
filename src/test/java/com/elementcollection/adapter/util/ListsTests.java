@@ -1,12 +1,13 @@
 package com.elementcollection.adapter.util;
 
+import com.elementcollection.util.Function;
 import org.testng.annotations.Test;
 
 import javax.annotation.Nullable;
 import java.util.ArrayList;
 import java.util.List;
 
-import static com.elementcollection.adapter.util.Lists.applyFunction;
+import static com.elementcollection.util.Lists.applyFunction;
 import static org.assertj.core.api.Assertions.assertThat;
 
 /**

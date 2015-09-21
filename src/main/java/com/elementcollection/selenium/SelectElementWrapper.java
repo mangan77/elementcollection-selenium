@@ -1,4 +1,4 @@
-package com.elementcollection.adapter.selenium;
+package com.elementcollection.selenium;
 
 import com.elementcollection.api.SelectElement;
 import org.openqa.selenium.WebElement;

@@ -1,4 +1,4 @@
-package com.elementcollection.adapter.util;
+package com.elementcollection.util;
 
 import java.util.ArrayList;
 import java.util.List;

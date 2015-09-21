@@ -1,4 +1,4 @@
-package com.elementcollection.adapter.selenium;
+package com.elementcollection.selenium;
 
 import com.elementcollection.api.Driver;
 import com.elementcollection.api.Element;

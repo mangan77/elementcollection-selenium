@@ -1,8 +1,8 @@
-package com.elementcollection.adapter.selenium;
+package com.elementcollection.selenium;
 
-import com.elementcollection.adapter.util.Function;
-import com.elementcollection.adapter.util.Lists;
 import com.elementcollection.api.Element;
+import com.elementcollection.util.Function;
+import com.elementcollection.util.Lists;
 import org.openqa.selenium.WebElement;
 
 import javax.annotation.Nullable;
