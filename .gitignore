@@ -1,2 +1,9 @@
+.git/*
+out/*
+.idea/*
+classes/*
 build/*
-.gradle/
+.gradle/*
+releases/*
+elementcollection-selenium.iml
+.DS_Store
